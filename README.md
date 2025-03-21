@@ -4,7 +4,7 @@ A Node.js SDK for the Notte API, mirroring the functionality of the Python SDK.
 This SDK is mirrored from the official implementation by [Notte Labs](https://github.com/nottelabs/notte)
 
 ## Installation
-
+Not published.
 ```bash
 npm install notte-sdk
 ```
